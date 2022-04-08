@@ -1,7 +1,7 @@
 # VITMAS_Task0_21MIS0244
 
 ## Tutorial
-  https://youtu.be/DH55yU_d6tM
+  Link : https://youtu.be/DH55yU_d6tM
 
 ## Basic Git Commands
 
